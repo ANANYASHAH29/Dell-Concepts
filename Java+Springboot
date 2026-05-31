@@ -1,0 +1,24 @@
+#STEPS TO CREATE NEW PROJECT:
+
+1. Open VSCode
+
+2. Ctrl + Shift + P
+
+3. Type:
+   Spring Initializr: Create a Maven Project
+
+4. Select:
+   Version  → 3.5.14
+   Language → Java
+   Group    → com.dell
+   Artifact → demo
+   Package  → Jar
+   Java     → 17
+
+5. Dependencies:
+   → Spring Web
+   → Lombok
+
+6. Select folder to save
+
+7. Open in VSCode!
